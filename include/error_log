@@ -1,0 +1,65 @@
+[22-Apr-2022 08:55:11 UTC] PHP Warning:  include(../config/db.php): failed to open stream: No such file or directory in /home/jfmgbicmac/public_html/include/loginsecure.php on line 3
+[22-Apr-2022 08:55:11 UTC] PHP Warning:  include(): Failed opening '../config/db.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/jfmgbicmac/public_html/include/loginsecure.php on line 3
+[22-Apr-2022 08:55:11 UTC] PHP Fatal error:  Call to a member function query() on null in /home/jfmgbicmac/public_html/include/loginsecure.php on line 214
+[22-Apr-2022 08:55:13 UTC] PHP Warning:  include(../config/db.php): failed to open stream: No such file or directory in /home/jfmgbicmac/public_html/include/loginsecure.php on line 3
+[22-Apr-2022 08:55:13 UTC] PHP Warning:  include(): Failed opening '../config/db.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/jfmgbicmac/public_html/include/loginsecure.php on line 3
+[22-Apr-2022 08:56:16 UTC] PHP Warning:  include(../config/db.php): failed to open stream: No such file or directory in /home/jfmgbicmac/public_html/include/loginsecure.php on line 3
+[22-Apr-2022 08:56:16 UTC] PHP Warning:  include(): Failed opening '../config/db.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/jfmgbicmac/public_html/include/loginsecure.php on line 3
+[22-Apr-2022 08:56:16 UTC] PHP Fatal error:  Call to a member function query() on null in /home/jfmgbicmac/public_html/include/loginsecure.php on line 214
+[22-Apr-2022 08:56:19 UTC] PHP Warning:  include(../config/db.php): failed to open stream: No such file or directory in /home/jfmgbicmac/public_html/include/loginsecure.php on line 3
+[22-Apr-2022 08:56:19 UTC] PHP Warning:  include(): Failed opening '../config/db.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/jfmgbicmac/public_html/include/loginsecure.php on line 3
+[22-Apr-2022 08:56:19 UTC] PHP Fatal error:  Call to a member function query() on null in /home/jfmgbicmac/public_html/include/loginsecure.php on line 214
+[22-Apr-2022 08:56:21 UTC] PHP Warning:  include(../config/db.php): failed to open stream: No such file or directory in /home/jfmgbicmac/public_html/include/loginsecure.php on line 3
+[22-Apr-2022 08:56:21 UTC] PHP Warning:  include(): Failed opening '../config/db.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/jfmgbicmac/public_html/include/loginsecure.php on line 3
+[22-Apr-2022 08:56:23 UTC] PHP Warning:  include(../config/db.php): failed to open stream: No such file or directory in /home/jfmgbicmac/public_html/include/loginsecure.php on line 3
+[22-Apr-2022 08:56:23 UTC] PHP Warning:  include(): Failed opening '../config/db.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/jfmgbicmac/public_html/include/loginsecure.php on line 3
+[22-Apr-2022 08:56:59 UTC] PHP Warning:  include(../config/db.php): failed to open stream: No such file or directory in /home/jfmgbicmac/public_html/include/loginsecure.php on line 3
+[22-Apr-2022 08:56:59 UTC] PHP Warning:  include(): Failed opening '../config/db.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/jfmgbicmac/public_html/include/loginsecure.php on line 3
+[22-Apr-2022 08:57:00 UTC] PHP Warning:  include(../config/db.php): failed to open stream: No such file or directory in /home/jfmgbicmac/public_html/include/loginsecure.php on line 3
+[22-Apr-2022 08:57:00 UTC] PHP Warning:  include(): Failed opening '../config/db.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/jfmgbicmac/public_html/include/loginsecure.php on line 3
+[22-Apr-2022 08:57:06 UTC] PHP Warning:  include(../config/db.php): failed to open stream: No such file or directory in /home/jfmgbicmac/public_html/include/loginsecure.php on line 3
+[22-Apr-2022 08:57:06 UTC] PHP Warning:  include(): Failed opening '../config/db.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/jfmgbicmac/public_html/include/loginsecure.php on line 3
+[22-Apr-2022 09:00:01 UTC] PHP Warning:  include(../config/db.php): failed to open stream: No such file or directory in /home/jfmgbicmac/public_html/include/loginsecure.php on line 3
+[22-Apr-2022 09:00:01 UTC] PHP Warning:  include(): Failed opening '../config/db.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/jfmgbicmac/public_html/include/loginsecure.php on line 3
+[23-Apr-2022 03:36:45 UTC] PHP Warning:  include(../config/db.php): failed to open stream: No such file or directory in /home/jfmgbicmac/public_html/include/loginsecure.php on line 3
+[23-Apr-2022 03:36:45 UTC] PHP Warning:  include(): Failed opening '../config/db.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/jfmgbicmac/public_html/include/loginsecure.php on line 3
+[23-Apr-2022 03:36:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/jfmgbicmac/public_html/include/loginsecure.php:214
+Stack trace:
+#0 {main}
+  thrown in /home/jfmgbicmac/public_html/include/loginsecure.php on line 214
+[23-Apr-2022 03:36:48 UTC] PHP Warning:  include(../config/db.php): failed to open stream: No such file or directory in /home/jfmgbicmac/public_html/include/loginsecure.php on line 3
+[23-Apr-2022 03:36:48 UTC] PHP Warning:  include(): Failed opening '../config/db.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/jfmgbicmac/public_html/include/loginsecure.php on line 3
+[23-Apr-2022 03:36:50 UTC] PHP Warning:  include(../config/db.php): failed to open stream: No such file or directory in /home/jfmgbicmac/public_html/include/loginsecure.php on line 3
+[23-Apr-2022 03:36:50 UTC] PHP Warning:  include(): Failed opening '../config/db.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/jfmgbicmac/public_html/include/loginsecure.php on line 3
+[23-Apr-2022 03:36:51 UTC] PHP Warning:  include(../config/db.php): failed to open stream: No such file or directory in /home/jfmgbicmac/public_html/include/loginsecure.php on line 3
+[23-Apr-2022 03:36:51 UTC] PHP Warning:  include(): Failed opening '../config/db.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/jfmgbicmac/public_html/include/loginsecure.php on line 3
+[25-Apr-2022 03:31:29 UTC] PHP Warning:  include(../config/db.php): failed to open stream: No such file or directory in /home/jfmgbicmac/public_html/include/loginsecure.php on line 3
+[25-Apr-2022 03:31:29 UTC] PHP Warning:  include(): Failed opening '../config/db.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/jfmgbicmac/public_html/include/loginsecure.php on line 3
+[25-Apr-2022 03:31:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/jfmgbicmac/public_html/include/loginsecure.php:189
+Stack trace:
+#0 {main}
+  thrown in /home/jfmgbicmac/public_html/include/loginsecure.php on line 189
+[25-Apr-2022 03:35:01 UTC] PHP Warning:  include(../config/db.php): failed to open stream: No such file or directory in /home/jfmgbicmac/public_html/include/loginsecure.php on line 3
+[25-Apr-2022 03:35:01 UTC] PHP Warning:  include(): Failed opening '../config/db.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/jfmgbicmac/public_html/include/loginsecure.php on line 3
+[25-Apr-2022 03:35:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/jfmgbicmac/public_html/include/loginsecure.php:189
+Stack trace:
+#0 {main}
+  thrown in /home/jfmgbicmac/public_html/include/loginsecure.php on line 189
+[26-Apr-2022 04:04:37 UTC] PHP Warning:  include(../config/db.php): failed to open stream: No such file or directory in /home/jfmgbicmac/public_html/include/loginsecure.php on line 3
+[26-Apr-2022 04:04:37 UTC] PHP Warning:  include(): Failed opening '../config/db.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/jfmgbicmac/public_html/include/loginsecure.php on line 3
+[26-Apr-2022 04:04:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/jfmgbicmac/public_html/include/loginsecure.php:189
+Stack trace:
+#0 {main}
+  thrown in /home/jfmgbicmac/public_html/include/loginsecure.php on line 189
+[27-Apr-2022 20:33:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function db_escape() in /home/jfmgbicmac/public_html/include/loginsecure.php:189
+Stack trace:
+#0 {main}
+  thrown in /home/jfmgbicmac/public_html/include/loginsecure.php on line 189
+[27-Apr-2022 20:33:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function db_escape() in /home/jfmgbicmac/public_html/include/loginsecure.php:189
+Stack trace:
+#0 {main}
+  thrown in /home/jfmgbicmac/public_html/include/loginsecure.php on line 189
+[27-Apr-2022 20:35:52 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/jfmgbicmac/public_html/config/db.php on line 17
+[27-Apr-2022 20:35:52 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/jfmgbicmac/public_html/config/db.php on line 17
+[28-Apr-2022 03:58:44 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/jfmgbicmac/public_html/config/db.php on line 17
+[28-Apr-2022 03:58:44 UTC] PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /home/jfmgbicmac/public_html/config/db.php on line 17
